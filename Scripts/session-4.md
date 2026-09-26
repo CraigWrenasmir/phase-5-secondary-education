@@ -5,7 +5,7 @@
 ### Slide 1
 
 Welcome back. This is Session Four, Learning Design. You’ll find the session summary on page seventeen of your Participant Guide. Have your secondary day map, day audit and Carry into design card from Session Three beside you. We’re going to use what you noticed to make one small, testable change to a lesson, an assessment task or a handover.
-The direction matters: we begin with the students and their experience, then consider what can change in the environment, the task or the routine. What we know about a student is useful knowledge for design. It isn’t a list of deficits to fix.
+The direction matters: we begin with the students and their experience, then consider what can change in the environment, the task or the routine. What we know about a student is useful knowledge for design. It helps us understand each student in context.
 Keep your Reduce item in view: the barrier or unnecessary demand you chose to explore. We’ll work with others to design a response, then each of you will check it against the two or three students you have in mind. The aim is something practical enough to try, observe and refine.
 
 *Pause: 1.5 seconds. *

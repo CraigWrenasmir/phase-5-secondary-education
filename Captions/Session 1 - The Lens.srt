@@ -1,1062 +1,1088 @@
 1
-00:00:05,001 --> 00:00:09,655
-Welcome to our Secondary Education
-professional learning workshop. Today
+00:00:05,000 --> 00:00:08,073
+Welcome to our secondary education
+professional learning
 
 2
-00:00:09,656 --> 00:00:14,375
-we're going to explore Autistic
-experience, and what it means for access,
+00:00:08,073 --> 00:00:08,789
+workshop.
 
 3
-00:00:14,376 --> 00:00:19,555
-belonging and partnership in a secondary
-school. Keep the students you work with
+00:00:08,789 --> 00:00:12,497
+Today we're going to explore Autistic
+experience and what it
 
 4
-00:00:19,556 --> 00:00:24,800
-at the centre of the day. We'll build our
-understanding, look closely at everyday
+00:00:12,497 --> 00:00:16,298
+means for access, belonging and
+partnership in a secondary
 
 5
-00:00:24,801 --> 00:00:30,045
-school routines, and consider what we can
-change in the environment, the task and
+00:00:16,298 --> 00:00:16,853
+school.
 
 6
-00:00:30,046 --> 00:00:35,224
-the support we offer. Our starting point
-is curiosity. We are here to understand
+00:00:16,853 --> 00:00:20,226
+Keep the students you work with at the
+centre of the day.
 
 7
-00:00:35,225 --> 00:00:40,272
-students and make participation more
-workable. We are not here to fix students
+00:00:20,226 --> 00:00:23,911
+We'll build our understanding, look
+closely at everyday school
 
 8
-00:00:40,273 --> 00:00:45,058
-or make them less Autistic. You don't need
-to arrive with all the answers.
+00:00:23,911 --> 00:00:27,169
+routines and consider what we can change
+in the environment, the
 
 9
-00:00:45,059 --> 00:00:49,581
-Bring your questions, your experience and
-a willingness to look again.
+00:00:27,169 --> 00:00:30,045
+task and the support we offer.
 
 10
+00:00:30,045 --> 00:00:33,869
+Our starting point is curiosity. We are
+here to understand
+
+11
+00:00:33,869 --> 00:00:36,746
+students and make participation more
+workable.
+
+12
+00:00:36,884 --> 00:00:40,523
+We value students as they are and support
+their participation
+
+13
+00:00:40,523 --> 00:00:41,644
+and belonging.
+
+14
+00:00:41,644 --> 00:00:45,710
+You don't need to arrive with all the
+answers. Bring your
+
+15
+00:00:45,710 --> 00:00:48,644
+questions, your experience and a
+willingness to look again.
+
+16
 00:00:51,121 --> 00:00:56,043
 I acknowledge the Traditional Custodians
 of the lands on which we are learning
 
-11
+17
 00:00:56,044 --> 00:01:01,158
 today, and pay my respects to Elders past
 and present. I recognise the continuing
 
-12
+18
 00:01:01,159 --> 00:01:05,698
 connections of Aboriginal and Torres
 Strait Islander peoples to Country,
 
-13
+19
 00:01:05,699 --> 00:01:10,493
 culture and community. I extend that
 respect to Aboriginal and Torres Strait
 
-14
+20
 00:01:10,494 --> 00:01:13,689
 Islander people taking part in this
 learning today.
 
-15
+21
 00:01:16,721 --> 00:01:21,294
 At this point in the workshop, we make
 space for the organisation's statement of
 
-16
+22
 00:01:21,295 --> 00:01:25,636
 reconciliation. The approved statement has
 not been included in the supplied
 
-17
+23
 00:01:25,637 --> 00:01:29,861
 materials for this recording, so its
 wording still needs to be added here.
 
-18
+24
 00:01:31,881 --> 00:01:36,273
 First Nations people are advised that this
 workshop may contain images and
 
-19
+25
 00:01:36,274 --> 00:01:38,799
 voices of people who are no longer with
 us.
 
-20
+26
 00:01:40,801 --> 00:01:46,101
 Everyone is welcome here, and you are
 welcome to be authentically yourself. Use
 
-21
+27
 00:01:46,102 --> 00:01:51,266
 the strategies that help you take part.
 You can move, change position, write,
 
-22
+28
 00:01:51,267 --> 00:01:56,091
 speak, listen or pass. If there is
 something the delivery team can do to
 
-23
+29
 00:01:56,092 --> 00:02:01,392
 make participation more accessible, let us
 know. Let's begin by getting to know
 
-24
+30
 00:02:01,393 --> 00:02:06,625
 the people around us. At your table, share
 your first name, your role, and one
 
-25
+31
 00:02:06,626 --> 00:02:11,383
 hope you have for today. Keep the
 introduction brief so everyone has an
 
-26
+32
 00:02:11,384 --> 00:02:16,819
 opportunity. You're also welcome simply to
 listen. There is no need to disclose a
 
-27
+33
 00:02:16,820 --> 00:02:21,985
 diagnosis or share private information
 about yourself, a student or a school.
 
-28
+34
 00:02:21,986 --> 00:02:27,150
 What would make this learning useful in
 your work? Take a moment to introduce
 
-29
+35
 00:02:27,151 --> 00:02:28,168
 yourselves now.
 
-30
+36
 00:02:36,201 --> 00:02:40,656
 Let's come back together. Keep that hope
 in mind as we go. There will be
 
-31
+37
 00:02:40,657 --> 00:02:45,740
 opportunities to connect the content with
 sensory experience, thinking, the school
 
-32
+38
 00:02:45,741 --> 00:02:50,196
 day, learning design and partnership. Your
 questions are useful starting
 
-33
+39
 00:02:50,197 --> 00:02:53,521
 points, even when they don't have an
 immediate answer.
 
-34
+40
 00:02:55,041 --> 00:02:58,804
 Before we get into the content, take a
 moment to check the practical
 
-35
+41
 00:02:58,805 --> 00:03:03,354
 arrangements for your setting: the exits,
 bathroom facilities, tea and coffee, and
 
-36
+42
 00:03:03,355 --> 00:03:07,736
 any quiet or lower-sensory space that is
 available. Keep your Participant Guide
 
-37
+43
 00:03:07,737 --> 00:03:12,117
 and something to write with nearby. We'll
 use the guide throughout the day, and
 
-38
+44
 00:03:12,118 --> 00:03:16,274
 there will be time to provide feedback
 through the evaluation. You can also
 
-39
+45
 00:03:16,275 --> 00:03:20,543
 write questions down if speaking to the
 group isn't your preferred way to ask
 
-40
+46
 00:03:20,544 --> 00:03:24,925
 them. Please be considerate with phone
 sounds and calls, and follow the venue's
 
-41
+47
 00:03:24,926 --> 00:03:29,307
 arrangements for no smoking or vaping.
 Attend to your own needs as we work. You
 
-42
+48
 00:03:29,308 --> 00:03:33,351
 don't need to wait for a scheduled break
 to use a strategy that helps you
 
-43
+49
 00:03:33,352 --> 00:03:37,113
 participate. Confirm any local
 arrangements with your delivery team.
 
-44
+50
 00:03:38,641 --> 00:03:43,414
 Turn to page four of your Participant
 Guide. Bring two or three students to
 
-45
+51
 00:03:43,415 --> 00:03:48,381
 mind. Choose students whose experiences
 differ in some way: perhaps their age,
 
-46
+52
 00:03:48,382 --> 00:03:53,349
 how they communicate, or what different
 parts of school are like for them. Use
 
-47
+53
 00:03:53,350 --> 00:03:57,865
 initials or a role description in your
 notes. We won't need identifying
 
-48
+54
 00:03:57,866 --> 00:04:02,961
 information. Begin with the whole person.
 What interests them? What strengths do
 
-49
+55
 00:04:02,962 --> 00:04:07,671
 you notice? How do they connect with
 people or with the things they enjoy?
 
-50
+56
 00:04:07,672 --> 00:04:12,638
 Then ask yourself: what am I here to
 understand more deeply about their school
 
-51
+57
 00:04:12,639 --> 00:04:17,348
 experience? Keep that as an open question,
 rather than deciding the answer
 
-52
+58
 00:04:17,349 --> 00:04:21,993
 now. This is private thinking first.
 Sharing is optional. We'll return to
 
-53
+59
 00:04:21,994 --> 00:04:26,896
 these same students when we map the school
 day, consider learning design, and
 
-54
+60
 00:04:26,897 --> 00:04:31,992
 reflect on what to carry forward. Give
 yourself a moment to choose your students
 
-55
+61
 00:04:31,993 --> 00:04:33,346
 and make a few notes.
 
-56
+62
 00:04:41,361 --> 00:04:46,083
 Keep those notes available. You don't need
 a complete picture yet. The gaps in
 
-57
+63
 00:04:46,084 --> 00:04:50,438
 what we know are part of the work. As we
 move through the workshop, keep
 
-58
+64
 00:04:50,439 --> 00:04:54,854
 distinguishing what a student has
 communicated, what you've observed, and
 
-59
+65
 00:04:54,855 --> 00:04:57,612
 what you'd still like to understand with
 them.
 
-60
+66
 00:04:59,121 --> 00:05:03,877
 We're going to begin with student voices.
 Listen to each speaker's own account, and
 
-61
+67
 00:05:03,878 --> 00:05:08,461
 allow it to stand on its own terms. You
 don't need to diagnose, compare speakers
 
-62
+68
 00:05:08,462 --> 00:05:12,754
 with students you know, or reduce the
 video to one lesson. Just notice what
 
-63
+69
 00:05:12,755 --> 00:05:17,106
 stays with you, and what you want to
 understand more deeply. We'll have time
 
-64
+70
 00:05:17,107 --> 00:05:18,670
 to reflect after the video.
 
-65
+71
 00:07:41,081 --> 00:07:44,981
 Take a moment before moving into
 discussion. Keep the speakers' own words
 
-66
+72
 00:07:44,982 --> 00:07:47,580
 and experiences at the centre of your
 reflection.
 
-67
+73
 00:07:50,601 --> 00:07:55,490
 Stay on page four of your Participant
 Guide. What did you notice? What has
 
-68
+74
 00:07:55,491 --> 00:08:00,514
 stayed with you? What would you like to
 understand more deeply? Begin with a
 
-69
+75
 00:08:00,515 --> 00:08:05,806
 little private writing. Anchor your notes
 in what the speakers said, rather than
 
-70
+76
 00:08:05,807 --> 00:08:10,630
 making an interpretation from their
 appearance or behaviour. Then, if you
 
-71
+77
 00:08:10,631 --> 00:08:15,587
 wish, share one reflection with someone
 nearby. Try to leave each speaker's
 
-72
+78
 00:08:15,588 --> 00:08:20,812
 account intact. We don't need to reach
 agreement about a single message, and we
 
-73
+79
 00:08:20,813 --> 00:08:25,702
 don't need to compare a speaker with one
 particular child. Make room for a
 
-74
+80
 00:08:25,703 --> 00:08:30,659
 question that remains open as well as
 something that feels clear. Take some
 
-75
+81
 00:08:30,660 --> 00:08:32,535
 time with those prompts now.
 
-76
+82
 00:08:40,561 --> 00:08:45,377
 Let's return. Keep one question from that
 reflection where you can see it. We will
 
-77
+83
 00:08:45,378 --> 00:08:49,540
 come back to sensory experience, thinking,
 communication and the school
 
-78
+84
 00:08:49,541 --> 00:08:54,060
 day. Some questions may need further
 conversation through the program or your
 
-79
+85
 00:08:54,061 --> 00:08:58,461
 local channels. Listening carefully
 includes recognising what we still need
 
-80
+86
 00:08:58,462 --> 00:08:58,996
 to learn.
 
-81
+87
 00:09:00,520 --> 00:09:05,168
 Let's take a moment with the language on
 this slide, because it gives us a shared
 
-82
+88
 00:09:05,168 --> 00:09:09,408
 starting point. Neurodiversity is the
 whole picture. It includes everyone.
 
-83
+89
 00:09:09,408 --> 00:09:14,114
 Neurotypical and neurodivergent describe
 brain patterns within that diversity, and
 
-84
+90
 00:09:14,114 --> 00:09:18,471
 autism is one expression of it. Here,
 neurotypical describes the more common
 
-85
+91
 00:09:18,471 --> 00:09:22,944
 brain patterns. Neurodivergent describes
 brain patterns that differ from those
 
-86
+92
 00:09:22,944 --> 00:09:27,360
 most common patterns. So both sit within
 the wider picture of neurodiversity.
 
-87
+93
 00:09:27,360 --> 00:09:31,717
 Keeping those ideas clear helps us use the
 language consistently through the
 
-88
+94
 00:09:31,717 --> 00:09:36,190
 day. Now, hold in mind the students you
 were thinking about earlier. The words
 
-89
+95
 00:09:36,190 --> 00:09:40,721
 can help us ask better questions about
 their experience, but they won't tell us
 
-90
+96
 00:09:40,721 --> 00:09:44,730
 everything about any one of them. We still
 need to know that student's
 
-91
+97
 00:09:44,730 --> 00:09:49,203
 interests, their ways of communicating,
 and what different parts of school are
 
-92
+98
 00:09:49,203 --> 00:09:53,618
 like for them. We'll also respect the
 language people use for themselves. The
 
-93
+99
 00:09:53,618 --> 00:09:58,034
 purpose here is to support dignity and
 curiosity. As we go, keep asking: does
 
-94
+100
 00:09:58,034 --> 00:10:01,401
 this language help me understand the
 person in front of me?
 
-95
+101
 00:10:02,921 --> 00:10:07,319
 That brings us to what it means to be
 neurodiversity affirming. The starting
 
-96
+102
 00:10:07,320 --> 00:10:11,424
 point is that differences are not
 deficits. There are different ways of
 
-97
+103
 00:10:11,425 --> 00:10:15,999
 knowing, doing, being and belonging, and
 everyone has strengths and experiences
 
-98
+104
 00:10:16,000 --> 00:10:20,398
 challenges. That means allowing for
 different ways of thinking, learning and
 
-99
+105
 00:10:20,399 --> 00:10:24,855
 taking part. When we look at belonging,
 for instance, we can stay open to the
 
-100
+106
 00:10:24,856 --> 00:10:29,488
 ways a student experiences connection,
 rather than expecting it to look the same
 
-101
+107
 00:10:29,489 --> 00:10:34,004
 for everyone. In a secondary classroom,
 it's easy for the things that need our
 
-102
+108
 00:10:34,005 --> 00:10:38,462
 immediate attention to fill the whole
 picture. A difficult transition. A task
 
-103
+109
 00:10:38,463 --> 00:10:42,684
 that hasn't started. A moment when joining
 the group has become too much.
 
-104
+110
 00:10:42,685 --> 00:10:46,848
 Those things matter. We need to understand
 them and provide support. And
 
-105
+111
 00:10:46,849 --> 00:10:51,482
 we need to keep the rest of the person
 visible. What interests them? What brings
 
-106
+112
 00:10:51,483 --> 00:10:56,115
 them joy? How do they connect? What can
 they do that we might miss if we're only
 
-107
+113
 00:10:56,116 --> 00:11:00,807
 watching for difficulty? Take one of your
 students now. What becomes more visible
 
-108
+114
 00:11:00,808 --> 00:11:05,264
 when you include their strengths and
 interests in the picture? Just hold that
 
-109
+115
 00:11:05,265 --> 00:11:06,496
 thought for a moment.
 
-110
+116
 00:11:14,520 --> 00:11:19,761
 A strengths-based approach also takes
 difficulty seriously. A student can have
 
-111
+117
 00:11:19,762 --> 00:11:25,208
 real strengths and still need substantial
 support. Their capacity can change with
 
-112
+118
 00:11:25,209 --> 00:11:30,791
 the task, the environment and the day. So
 our language needs to make room for both.
 
-113
+119
 00:11:30,792 --> 00:11:35,556
 We can describe what's becoming difficult,
 notice what the situation is
 
-114
+120
 00:11:35,557 --> 00:11:40,799
 asking of the student, and consider what
 support would help. We begin with the
 
-115
+121
 00:11:40,800 --> 00:11:43,590
 person, and we stay curious about access.
 
-116
+122
 00:11:45,120 --> 00:11:49,779
 The social model helps us put that
 curiosity to work. On this slide, we're
 
-117
+123
 00:11:49,780 --> 00:11:54,886
 using an environment-first lens. We look
 for barriers in the place, the task, the
 
-118
+124
 00:11:54,887 --> 00:11:59,738
 routine and the expectations. Then we ask
 what can change around the student.
 
-119
+125
 00:11:59,739 --> 00:12:04,653
 Here's an imaginary classroom example. A
 class is gathering on the floor for a
 
-120
+126
 00:12:04,654 --> 00:12:09,568
 story. The usual expectation is that
 everyone sits close together, in the same
 
-121
+127
 00:12:09,569 --> 00:12:14,739
 space, for the whole reading. One student
 finds that arrangement difficult. Before
 
-122
+128
 00:12:14,740 --> 00:12:19,463
 deciding what the student needs to do
 differently, we can look at what this
 
-123
+129
 00:12:19,464 --> 00:12:24,634
 routine asks of them. How crowded is the
 space? What choices are there about where
 
-124
+130
 00:12:24,635 --> 00:12:29,230
 to sit? Is sitting in that particular
 place necessary to take part in the
 
-125
+131
 00:12:29,231 --> 00:12:34,401
 story? We might explore another place to
 sit, or a different way of joining. Those
 
-126
+132
 00:12:34,402 --> 00:12:39,636
 are possibilities to investigate with the
 student. We haven't established what will
 
-127
+133
 00:12:39,637 --> 00:12:44,551
 help just by coming up with an option. The
 next two steps on the slide matter:
 
-128
+134
 00:12:44,552 --> 00:12:49,658
 include the student's communication and
 experience, and review whether the change
 
-129
+135
 00:12:49,659 --> 00:12:54,765
 makes participation more workable. What
 can the student tell or show us about the
 
-130
+136
 00:12:54,766 --> 00:12:59,680
 change? Is it helping them take part?
 Changing an environment won't make every
 
-131
+137
 00:12:59,681 --> 00:13:04,340
 difficulty disappear. It gives us
 somewhere useful to begin, with barriers
 
-132
+138
 00:13:04,341 --> 00:13:07,596
 and supports that we can notice, discuss
 and review.
 
-133
+139
 00:13:09,120 --> 00:13:13,565
 Let's widen that question to school
 itself. You can use the space on page
 
-134
+140
 00:13:13,566 --> 00:13:18,319
 five of your Participant Guide as you
 think. What is school for? Who is school
 
-135
+141
 00:13:18,320 --> 00:13:22,641
 for? How do students learn? And whose ways
 of communicating, moving and
 
-136
+142
 00:13:22,642 --> 00:13:27,457
 participating are treated as expected?
 These are big questions. There isn't one
 
-137
+143
 00:13:27,458 --> 00:13:32,335
 correct answer we're trying to arrive at.
 They're an invitation to look again at
 
-138
+144
 00:13:32,336 --> 00:13:36,904
 familiar routines and the assumptions
 inside them. Think about a routine in
 
-139
+145
 00:13:36,905 --> 00:13:41,782
 your classroom: perhaps arriving in the
 morning, joining a group or showing what
 
-140
+146
 00:13:41,783 --> 00:13:46,413
 you've learnt. What does that routine seem
 to assume about how students will
 
-141
+147
 00:13:46,414 --> 00:13:50,921
 communicate or participate? What do we
 notice and encourage? What might be
 
-142
+148
 00:13:50,922 --> 00:13:55,552
 harder to see? This is a chance to examine
 the routine with curiosity. Every
 
-143
+149
 00:13:55,553 --> 00:14:00,429
 classroom has patterns that have become
 familiar. Looking at them again can open
 
-144
+150
 00:14:00,430 --> 00:14:05,184
 up choices. We can value the care and
 effort that educators bring, while still
 
-145
+151
 00:14:05,185 --> 00:14:09,630
 asking whether a familiar expectation is
 helping every student access the
 
-146
+152
 00:14:09,631 --> 00:14:14,013
 learning. For a moment, work quietly on
 your own. Choose one of the four
 
-147
+153
 00:14:14,014 --> 00:14:18,583
 questions that catches your attention, and
 jot down a thought or a question
 
-148
+154
 00:14:18,584 --> 00:14:19,940
 you'd like to explore.
 
-149
+155
 00:14:27,960 --> 00:14:32,653
 Hold on to the question you've chosen. Our
 assumptions influence what we notice,
 
-150
+156
 00:14:32,654 --> 00:14:37,049
 what we reward and what we think needs to
 change. We'll now take that wider
 
-151
+157
 00:14:37,050 --> 00:14:41,624
 reflection into one specific routine, so
 the question becomes something we can
 
-152
+158
 00:14:41,625 --> 00:14:42,634
 examine together.
 
-153
+159
 00:14:44,160 --> 00:14:49,382
 Now turn to a small group near you. To
 begin, take the question about whose ways
 
-154
+160
 00:14:49,383 --> 00:14:53,746
 of communicating, moving and participating
 are treated as expected.
 
-155
+161
 00:14:53,747 --> 00:14:58,770
 Choose one familiar routine or decision to
 explore together. Keep it specific
 
-156
+162
 00:14:58,771 --> 00:15:03,927
 enough to picture. You might choose how
 children join a whole-class discussion,
 
-157
+163
 00:15:03,928 --> 00:15:08,886
 for example. Talk about the routine and
 the system, without naming students,
 
-158
+164
 00:15:08,887 --> 00:15:14,175
 colleagues or schools. Then work through
 the prompts on screen. Which assumptions
 
-159
+165
 00:15:14,176 --> 00:15:18,935
 shape that routine? Who can access it
 easily? Where might the environment
 
-160
+166
 00:15:18,936 --> 00:15:23,827
 create a barrier? How could curiosity
 change the next response? If you find
 
-161
+167
 00:15:23,828 --> 00:15:28,521
 yourselves focusing mainly on what a
 student does, come back to what the
 
-162
+168
 00:15:28,522 --> 00:15:33,017
 environment, task or expectation is
 contributing. Before we come back
 
-163
+169
 00:15:33,018 --> 00:15:37,777
 together, choose one concise observation
 to share, and one example of how
 
-164
+170
 00:15:37,778 --> 00:15:42,604
 curiosity could change your next response.
 Keep the prompts in view as you
 
-165
+171
 00:15:42,605 --> 00:15:43,926
 talk. You can begin.
 
-166
+172
 00:15:51,960 --> 00:15:56,726
 Let's come back together. Finish the
 thought you're on, and keep your notes.
 
-167
+173
 00:15:56,727 --> 00:16:01,493
 If you're sharing with the group, offer
 one concise observation: one example
 
-168
+174
 00:16:01,494 --> 00:16:06,514
 where curiosity could change your next
 response. Keep the example focused on the
 
-169
+175
 00:16:06,515 --> 00:16:11,535
 routine, the task or the environment. As
 we close, keep that question about your
 
-170
+176
 00:16:11,536 --> 00:16:16,302
 next response with you. The shift we're
 practising is from assumptions about
 
-171
+177
 00:16:16,303 --> 00:16:20,878
 students towards questions about access,
 environment and learning design.
 
-172
+178
 00:16:20,879 --> 00:16:25,518
 Curiosity gives us time to look at the
 task and the setting before placing
 
-173
+179
 00:16:25,519 --> 00:16:30,539
 another demand on a student. It helps us
 identify something to explore, with the
 
-174
+180
 00:16:30,540 --> 00:16:35,560
 student's experience still at the centre.
 Keep your example available as we move
 
-175
+181
 00:16:35,561 --> 00:16:35,751
 on.
 
-176
+182
 00:16:37,280 --> 00:16:42,742
 The Disability Standards for Education
 2005 are part of the context for our work
 
-177
+183
 00:16:42,743 --> 00:16:48,066
 on access and adjustments. There are three
 Australian Government Department of
 
-178
+184
 00:16:48,067 --> 00:16:52,975
 Education resources to be aware of
 alongside this workshop. The first is
 
-179
+185
 00:16:52,976 --> 00:16:58,507
 Getting started. The second is Advocating
 with and for your child: A workbook for
 
-180
+186
 00:16:58,508 --> 00:17:03,831
 parents and carers. That workbook is
 written for families, so it is useful for
 
-181
+187
 00:17:03,832 --> 00:17:09,363
 educators to know what parents and carers
 may be reading and working through. The
 
-182
+188
 00:17:09,364 --> 00:17:14,342
 third resource is Milestones and
 transitions. The links are listed in the
 
-183
+189
 00:17:14,343 --> 00:17:19,943
 facilitator resources. Use the published
 materials to follow up, and take detailed
 
-184
+190
 00:17:19,944 --> 00:17:25,543
 or school-specific questions through the
 appropriate program or local channel. For
 
-185
+191
 00:17:25,544 --> 00:17:30,591
 our work today, keep the connection with
 access in view: understanding the
 
-186
+192
 00:17:30,592 --> 00:17:35,708
 student, looking closely at the demands of
 the setting, and considering the
 
-187
+193
 00:17:35,709 --> 00:17:39,926
 adjustments and support that make
 participation more workable.
 
-188
+194
 00:17:41,440 --> 00:17:46,547
 Autism can be understood as difference and
 as a dynamic disability. Holding both
 
-189
+195
 00:17:46,548 --> 00:17:51,460
 ideas matters. Recognising difference and
 strengths does not mean overlooking
 
-190
+196
 00:17:51,461 --> 00:17:56,310
 difficulty or the need for substantial
 support. Access and support needs can
 
-191
+197
 00:17:56,311 --> 00:18:01,353
 change with the task, the environment,
 relationships and the capacity available
 
-192
+198
 00:18:01,354 --> 00:18:06,590
 at that time. Something a student can do
 in one setting, or on one day, may not be
 
-193
+199
 00:18:06,591 --> 00:18:11,697
 available in another. We need to look at
 what is happening around the student as
 
-194
+200
 00:18:11,698 --> 00:18:16,934
 well as what the task is asking of them.
 That takes us away from a fixed judgement
 
-195
+201
 00:18:16,935 --> 00:18:21,783
 about what someone can always do. It
 invites a more useful question: what is
 
-196
+202
 00:18:21,784 --> 00:18:26,632
 making participation possible here, and
 what support is needed now? Keep the
 
-197
+203
 00:18:26,633 --> 00:18:31,481
 individual in view. There isn't one
 pattern that will explain every Autistic
 
-198
+204
 00:18:31,482 --> 00:18:36,201
 student's experience. Strengths,
 difficulties and fluctuating capacity all
 
-199
+205
 00:18:36,202 --> 00:18:41,115
 belong in the picture we build with the
 student and the people who know them.
 
-200
+206
 00:18:42,641 --> 00:18:47,486
 Here is where the day is taking us. We'll
 develop a neurodiversity affirming
 
-201
+207
 00:18:47,487 --> 00:18:52,203
 approach, deepen our understanding of
 Autistic experience, notice how that
 
-202
+208
 00:18:52,204 --> 00:18:57,242
 experience meets the school day, consider
 accessible learning environments, and
 
-203
+209
 00:18:57,243 --> 00:19:02,024
 work in partnership. The first two
 sessions build our shared understanding.
 
-204
+210
 00:19:02,025 --> 00:19:07,257
 Then we'll bring that understanding into
 the rhythms of a secondary school day and
 
-205
+211
 00:19:07,258 --> 00:19:12,426
 into practical choices about design and
 support. Belonging, capacity and joy stay
 
-206
+212
 00:19:12,427 --> 00:19:17,078
 with us throughout. The workshop schedule
 allows for morning tea from ten
 
-207
+213
 00:19:17,079 --> 00:19:21,989
 forty-five to eleven, and lunch from
 twelve thirty to one. Treat those as the
 
-208
+214
 00:19:21,990 --> 00:19:26,512
 planned timings and follow the
 arrangements for your session. Before we
 
-209
+215
 00:19:26,513 --> 00:19:31,551
 move on, turn to My starting point on page
 five of your Participant Guide. Make
 
-210
+216
 00:19:31,552 --> 00:19:36,785
 a brief note of where you are beginning: a
 question, a hope or an idea you want to
 
-211
+217
 00:19:36,786 --> 00:19:41,825
 examine. We will return to this in our
 final reflection. Take a moment to write
 
-212
+218
 00:19:41,826 --> 00:19:42,082
 now.
 
-213
+219
 00:19:50,120 --> 00:19:54,542
 Keep that starting point. You don't have
 to resolve it yet. Next we'll explore
 
-214
+220
 00:19:54,543 --> 00:19:59,138
 sensory experience, thinking and internal
 signals, using the students you have in
 
-215
+221
 00:19:59,139 --> 00:20:02,240
 mind to connect the ideas with your own
 school context.

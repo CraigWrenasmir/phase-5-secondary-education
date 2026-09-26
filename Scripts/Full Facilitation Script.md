@@ -12,7 +12,7 @@ Welcome to our Secondary Education professional learning workshop. Today we're g
 
 Keep the students you work with at the centre of the day. We'll build our understanding, look closely at everyday school routines, and consider what we can change in the environment, the task and the support we offer.
 
-Our starting point is curiosity. We are here to understand students and make participation more workable. We are not here to fix students or make them less Autistic. You don't need to arrive with all the answers. Bring your questions, your experience and a willingness to look again.
+Our starting point is curiosity. We are here to understand students and make participation more workable. We value students as they are and support their participation and belonging. You don't need to arrive with all the answers. Bring your questions, your experience and a willingness to look again.
 
 *Pause: 1.5 seconds. *
 
@@ -1140,7 +1140,7 @@ Source and adaptation: Secondary Education Session 3, slide 28:   Positive Autis
 ### Slide 1
 
 Welcome back. This is Session Four, Learning Design. You’ll find the session summary on page seventeen of your Participant Guide. Have your secondary day map, day audit and Carry into design card from Session Three beside you. We’re going to use what you noticed to make one small, testable change to a lesson, an assessment task or a handover.
-The direction matters: we begin with the students and their experience, then consider what can change in the environment, the task or the routine. What we know about a student is useful knowledge for design. It isn’t a list of deficits to fix.
+The direction matters: we begin with the students and their experience, then consider what can change in the environment, the task or the routine. What we know about a student is useful knowledge for design. It helps us understand each student in context.
 Keep your Reduce item in view: the barrier or unnecessary demand you chose to explore. We’ll work with others to design a response, then each of you will check it against the two or three students you have in mind. The aim is something practical enough to try, observe and refine.
 
 *Pause: 1.5 seconds. *

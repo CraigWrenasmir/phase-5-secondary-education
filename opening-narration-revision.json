@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-27",
+  "scope": "Affirmative opening narration",
+  "workshop": "Secondary Education",
+  "voice": "Steve Hogan",
+  "sessions": [
+    {
+      "session": 1,
+      "slide": 1,
+      "segment_id": "s01_sl01_a",
+      "new_sentence": "We value students as they are and support their participation and belonging.",
+      "opening_start_seconds": 5,
+      "opening_end_seconds": 49.582,
+      "web": {
+        "url": "media/session-1.mp4?v=634e499d8e89",
+        "bytes": 40579720,
+        "sha256": "634e499d8e896c8f31ba20a07d8f2bead8fa34f3c40a6dabbb200bd79c0dbfb7"
+      },
+      "download": {
+        "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-01.mp4",
+        "bytes": 135102669,
+        "sha256": "c470ed261ab8d4cde48ed60fc1e3edbea6486102c4213e5abaab97a0fb2a0f36"
+      },
+      "checks": {
+        "video_packets_and_timestamps_unchanged": true,
+        "audio_packets_and_timestamps_unchanged_outside_openings": true,
+        "duration_unchanged": true,
+        "chapters_unchanged": true,
+        "embedded_caption_text_matches": true,
+        "unwanted_wording_absent": true
+      }
+    },
+    {
+      "session": 4,
+      "slide": 1,
+      "segment_id": "s04_sl01_a",
+      "new_sentence": "It helps us understand each student in context.",
+      "opening_start_seconds": 5,
+      "opening_end_seconds": 61.00602083333333,
+      "web": {
+        "url": "media/session-4.mp4?v=01a625045c71",
+        "bytes": 44122556,
+        "sha256": "01a625045c71a24011630df5435c10abc305ae54df5f486eea7c68a73145a238"
+      },
+      "download": {
+        "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-04.mp4",
+        "bytes": 126418870,
+        "sha256": "a6ab7f8282354e6c724c834aac2cc26a16634ac494f0588ea9b649b0744cfc0f"
+      },
+      "checks": {
+        "video_packets_and_timestamps_unchanged": true,
+        "audio_packets_and_timestamps_unchanged_outside_openings": true,
+        "duration_unchanged": true,
+        "chapters_unchanged": true,
+        "embedded_caption_text_matches": true,
+        "unwanted_wording_absent": true
+      }
+    }
+  ],
+  "combined_download": {
+    "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--full-workshop.mp4",
+    "bytes": 1234949734,
+    "sha256": "4dc1c9f3fa71859f096f7001ccf2b8ea6c18f28e4916194f588ad3eb65a3ac2c"
+  },
+  "preservation": {
+    "all_video_packets_unchanged": true,
+    "all_audio_packets_unchanged_outside_openings": true,
+    "chapter_and_slide_timing_unchanged": true,
+    "positive_autistic_identity_replacement_preserved": true
+  },
+  "source_documents": "Original downloadable source documents remain unchanged."
+}
