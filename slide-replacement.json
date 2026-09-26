@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "workshop": "Secondary Education",
+  "session": 3,
+  "slide": 28,
+  "scope": "Positive Autistic Identity visual replacement",
+  "replacement": {
+    "url": "assets/positive-autistic-identity.png",
+    "bytes": 306570,
+    "sha256": "b733304edaebde663f1bdef6d700ccf6e4682ef8066ad637989e50cd276602af"
+  },
+  "source_documents": "Original downloadable source documents remain unchanged.",
+  "frame_rate": 25,
+  "session_interval": {
+    "start_frame": 63879,
+    "end_frame": 66436
+  },
+  "combined_interval": {
+    "start_frame": 136110,
+    "end_frame": 138667
+  },
+  "media": {
+    "session_download": {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-03.mp4",
+      "bytes": 379726221,
+      "sha256": "b83417b2807151baf6ca1a99edf8d7afe01820bc02ffac3e06ba4a2561df0492",
+      "previous": {
+        "bytes": 380481160,
+        "sha256": "0a66e440ab52504dcb8fc97f1c6dc1b1e7de722017d95d9fce620b395548308c"
+      }
+    },
+    "combined_download": {
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--full-workshop.mp4",
+      "bytes": 1234957552,
+      "sha256": "9dca304820ec66959cefc79dcb220f6d0f66e513a5f1b019f43d2afbd95a9dd9",
+      "previous": {
+        "bytes": 1235705027,
+        "sha256": "a3c07b5fb0257c86292a99b02938d71d9f7713a717960ebeb2cfeb01aae9ee92"
+      }
+    },
+    "web_playback": {
+      "url": "media/session-3.mp4?v=8444c52a80b9",
+      "bytes": 94929910,
+      "sha256": "8444c52a80b901b149f862be443c94c91748c751d852394a89e2d9137c9bc58e",
+      "previous": {
+        "bytes": 94979015,
+        "sha256": "5040a50742fd7353f169d4e9aa19f58c49793b81485a6c01e8c6129a1c0a2c09"
+      }
+    }
+  },
+  "preservation_checks": {
+    "session_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "combined_download": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    },
+    "web_playback": {
+      "frames": true,
+      "duration": true,
+      "chapters": true,
+      "audio_packets_and_timing": true
+    }
+  }
+}
