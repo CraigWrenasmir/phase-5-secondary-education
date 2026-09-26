@@ -1,0 +1,658 @@
+{
+  "workshop": "Secondary Education",
+  "slug": "secondary",
+  "complete": true,
+  "voice": {
+    "name": "Steve Hogan",
+    "voice_id": "9B2Vd5yQ7rKaqNmzGdy1",
+    "model": "Eleven Multilingual v2"
+  },
+  "sessions": [
+    {
+      "number": 1,
+      "title": "The Lens",
+      "duration": 1203.76,
+      "slides": 17,
+      "available": true
+    },
+    {
+      "number": 2,
+      "title": "Understanding Autistic Experience: Sensory and Thinking",
+      "duration": 1685.48,
+      "slides": 23,
+      "available": true
+    },
+    {
+      "number": 3,
+      "title": "Autistic Experience at Secondary School: Communication, Connection and Identity",
+      "duration": 2657.44,
+      "slides": 28,
+      "available": true
+    },
+    {
+      "number": 4,
+      "title": "Learning Design",
+      "duration": 1688.52,
+      "slides": 21,
+      "available": true
+    },
+    {
+      "number": 5,
+      "title": "Working in Partnership",
+      "duration": 1951.16,
+      "slides": 18,
+      "available": true
+    },
+    {
+      "number": 6,
+      "title": "Flourishing and Full Circle",
+      "duration": 815.96,
+      "slides": 11,
+      "available": true
+    }
+  ],
+  "source_gaps": [
+    {
+      "session": 1,
+      "slide": 3,
+      "summary": "The approved statement has not been included in the supplied materials for this recording, so its wording still needs to be added here."
+    },
+    {
+      "session": 2,
+      "slide": 17,
+      "summary": "A young person's account of deep focus and transitions is planned for this point in the workshop, but the clip is not included in the supplied materials yet."
+    },
+    {
+      "session": 4,
+      "slide": 10,
+      "summary": "The example image is still a placeholder in this deck, so focus on the questions rather than a finished template."
+    },
+    {
+      "session": 4,
+      "slide": 11,
+      "summary": "The materials refer to a Visual Supports Checklist and an online webinar for further learning, but their access details still need to be confirmed."
+    },
+    {
+      "session": 4,
+      "slide": 13,
+      "summary": "The original slide retains a placeholder for material that is not supplied."
+    },
+    {
+      "session": 4,
+      "slide": 19,
+      "summary": "The original slide retains a placeholder for material that is not supplied."
+    },
+    {
+      "session": 6,
+      "slide": 6,
+      "summary": "That video hasn't been supplied in this version of the workshop, so we'll move directly to the final reflection."
+    },
+    {
+      "session": 6,
+      "slide": 8,
+      "summary": "The particular webinar titles and dates, and the Community of Practice link, are still awaiting confirmation in these materials."
+    }
+  ],
+  "assets": [
+    {
+      "label": "PL Secondary - Facilitator Guide",
+      "filename": "PL Secondary - Facilitator Guide.docx",
+      "category": "Editable guides",
+      "format": "docx",
+      "bytes": 5576148,
+      "sha256": "db6ed8c9ba50aef71867bf85245cdd8ab324100c72b194c51fcda5993b8c9c5a",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Facilitator Guide.docx"
+    },
+    {
+      "label": "PL Secondary - Participant Guide",
+      "filename": "PL Secondary - Participant Guide.docx",
+      "category": "Editable guides",
+      "format": "docx",
+      "bytes": 31200,
+      "sha256": "d461e62f24136582c9e1ced41a4568d8c6d80a573fc39d0ca89f1697b2728e6f",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Participant Guide.docx"
+    },
+    {
+      "label": "PL Secondary - Session 3 - Carry into design card",
+      "filename": "PL Secondary - Session 3 - Carry into design card.pptx",
+      "category": "Editable handouts",
+      "format": "pptx",
+      "bytes": 30348,
+      "sha256": "629e42163b2fd0605e0092a5b9f078d08e976b7a63698513f44beda3e48c91ef",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 3 - Carry into design card.pptx"
+    },
+    {
+      "label": "PL Secondary - Session 3 - Sample Year 9 timetable",
+      "filename": "PL Secondary - Session 3 - Sample Year 9 timetable.docx",
+      "category": "Editable handouts",
+      "format": "docx",
+      "bytes": 11352,
+      "sha256": "3ec890cc52e2fa5a2ad720f8ef8d5e80b9f989ed2e230bda60f5e385d54f09c9",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 3 - Sample Year 9 timetable.docx"
+    },
+    {
+      "label": "PL Secondary - Session 4 - A3 trio sheet",
+      "filename": "PL Secondary - Session 4 - A3 trio sheet.pptx",
+      "category": "Editable handouts",
+      "format": "pptx",
+      "bytes": 34619,
+      "sha256": "d0545db7adeef2f08a1b8ee91d1dcac0408d29c495dfce271d759cef75f48c25",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 4 - A3 trio sheet.pptx"
+    },
+    {
+      "label": "PL Secondary - Facilitator Guide",
+      "filename": "PL Secondary - Facilitator Guide.pdf",
+      "category": "Guides",
+      "format": "pdf",
+      "bytes": 7062094,
+      "sha256": "630817289106007dc59cd37a153cb0ac6198f11a0ce7fc6c75ccaf652b83f8d1",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Facilitator Guide.pdf"
+    },
+    {
+      "label": "PL Secondary - Participant Guide",
+      "filename": "PL Secondary - Participant Guide.pdf",
+      "category": "Guides",
+      "format": "pdf",
+      "bytes": 269620,
+      "sha256": "39adcb05383e5ca3f679330337f90c644e62021835ef4c29335df8cfd2471e70",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Participant Guide.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 1 - The Lens",
+      "filename": "PL Secondary - Session 1 - The Lens.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 5809379,
+      "sha256": "e9bd1353e445d5d22af80ecc08ec167b216b806a6a02bb02a621ddd6cc11032d",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 1 - The Lens.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 2 - Understanding Autistic Experience",
+      "filename": "PL Secondary - Session 2 - Understanding Autistic Experience.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 5444527,
+      "sha256": "fa3667be5919ae4509d270ae05da1aaaafe98a7201c2de1aeba9f5c3eba0e04a",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 2 - Understanding Autistic Experience.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 3 - Autistic Experience at Secondary School",
+      "filename": "PL Secondary - Session 3 - Autistic Experience at Secondary School.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 8237726,
+      "sha256": "a5555bb81ec6bdf6bc89688b7b005ea6744585a09523a57c5ff8197e123d84ef",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 3 - Autistic Experience at Secondary School.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 3 - Carry into design card",
+      "filename": "PL Secondary - Session 3 - Carry into design card.pdf",
+      "category": "Handouts",
+      "format": "pdf",
+      "bytes": 27659,
+      "sha256": "ed70abfd92b23030a9ab1f74912909e0c5f0da22aee27f8991c5ddeab2af180e",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 3 - Carry into design card.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 3 - Sample Year 9 timetable",
+      "filename": "PL Secondary - Session 3 - Sample Year 9 timetable.pdf",
+      "category": "Handouts",
+      "format": "pdf",
+      "bytes": 49992,
+      "sha256": "9009f39636052891c66d172adedc29c27f30ecb574ba49f422dd6eaf76b586e0",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 3 - Sample Year 9 timetable.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 4 - A3 trio sheet",
+      "filename": "PL Secondary - Session 4 - A3 trio sheet.pdf",
+      "category": "Handouts",
+      "format": "pdf",
+      "bytes": 44612,
+      "sha256": "564ca3d13d30f16fcd1c42425889d49ce4127c14279c8f0735e84cf6f04518b4",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 4 - A3 trio sheet.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 4 - Learning Design",
+      "filename": "PL Secondary - Session 4 - Learning Design.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 1401093,
+      "sha256": "2b04a8af1f00a1035c205d9cae0586c32eecfe5221b8e07d34ec3ed031ed1425",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 4 - Learning Design.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 5 - Working in Partnership",
+      "filename": "PL Secondary - Session 5 - Working in Partnership.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 3829942,
+      "sha256": "19b0c5c20faf9ca265e4e1b6817691142c7509e51624df9604920c49f97b25e0",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 5 - Working in Partnership.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 6 - Flourishing and Full Circle",
+      "filename": "PL Secondary - Session 6 - Flourishing and Full Circle.pdf",
+      "category": "Slides",
+      "format": "pdf",
+      "bytes": 2099319,
+      "sha256": "1313a50914898556bf233b72b1b12d2ee0b701558fe0c69df7d6f177d20114a7",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 6 - Flourishing and Full Circle.pdf"
+    },
+    {
+      "label": "PL Secondary - Session 1 - The Lens",
+      "filename": "PL Secondary - Session 1 - The Lens.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 51143815,
+      "sha256": "271aeb1e01b678b63a88c0ff351414ee0537754b29e241316adcc95451806219",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--editable-slides--pl-secondary-session-1-the-lens.pptx"
+    },
+    {
+      "label": "PL Secondary - Session 2 - Understanding Autistic Experience",
+      "filename": "PL Secondary - Session 2 - Understanding Autistic Experience.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 86236646,
+      "sha256": "bed216854889d147cc7a4a169964c6945d8378d76ffa0610845c6dfd1421ea17",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--editable-slides--pl-secondary-session-2-understanding-autistic-experience.pptx"
+    },
+    {
+      "label": "PL Secondary - Session 3 - Autistic Experience at Secondary School",
+      "filename": "PL Secondary - Session 3 - Autistic Experience at Secondary School.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 568252446,
+      "sha256": "78c9c996b9dd6ea3ed49201f3ce895dbfc9b862c5c4312400e55bf452c1980cc",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--editable-slides--pl-secondary-session-3-autistic-experience-at-secondary-school.pptx"
+    },
+    {
+      "label": "PL Secondary - Session 4 - Learning Design",
+      "filename": "PL Secondary - Session 4 - Learning Design.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 53632381,
+      "sha256": "5eae764cbcece6d50435f6f7edb0b84e61fffe0f384f64377ac1e590272aeb37",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--editable-slides--pl-secondary-session-4-learning-design.pptx"
+    },
+    {
+      "label": "PL Secondary - Session 5 - Working in Partnership",
+      "filename": "PL Secondary - Session 5 - Working in Partnership.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 9812799,
+      "sha256": "7454e04485e638d004b7baa668e5a275a5ca2aa2e8c92aabc10d341caff99a5a",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 5 - Working in Partnership.pptx"
+    },
+    {
+      "label": "PL Secondary - Session 6 - Flourishing and Full Circle",
+      "filename": "PL Secondary - Session 6 - Flourishing and Full Circle.pptx",
+      "category": "Editable slides",
+      "format": "pptx",
+      "bytes": 3572399,
+      "sha256": "12625ef3229b6aa6b2b5aa4d7e15c66605e1bc039f26a25c5fecf41037c1e0df",
+      "storage": "pages",
+      "url": "Original Assets/PL Secondary - Session 6 - Flourishing and Full Circle.pptx"
+    },
+    {
+      "label": "Session 1 · The Lens · structured script",
+      "filename": "session-1.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 40720,
+      "sha256": "e47a2c426df82c25d778241d450a91012ca4639c05904b9ac0b1105ce9392ae6",
+      "storage": "pages",
+      "url": "Scripts/session-1.json"
+    },
+    {
+      "label": "Session 1 · The Lens · readable script",
+      "filename": "session-1.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 32631,
+      "sha256": "b4054e3ef7469266a7b2596c959727e5223add440b95059ddabf8449b77ef529",
+      "storage": "pages",
+      "url": "Scripts/session-1.md"
+    },
+    {
+      "label": "Session 1 · The Lens",
+      "filename": "Session 1 - The Lens.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 135102328,
+      "sha256": "f1860de50c3345c998aa8d3392494b79aba1c694c36bebc4ff36a885c179cb0c",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-01.mp4"
+    },
+    {
+      "label": "Session 1 · The Lens · VTT",
+      "filename": "Session 1 - The Lens.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 23243,
+      "sha256": "743f4db44ed5f9275615d12f4bc8c688fa2fdbf1000573a462c36eade8fc390c",
+      "storage": "pages",
+      "url": "Captions/Session 1 - The Lens.vtt"
+    },
+    {
+      "label": "Session 1 · The Lens · SRT",
+      "filename": "Session 1 - The Lens.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 23235,
+      "sha256": "5a5120670be3463114dcc710282c29298724cb8524b334823a3cb45e51c97abb",
+      "storage": "pages",
+      "url": "Captions/Session 1 - The Lens.srt"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · structured script",
+      "filename": "session-2.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 53701,
+      "sha256": "54f485016601d292d5ea672fd55447cc0855fbb60428716cef161af4c3c91c1d",
+      "storage": "pages",
+      "url": "Scripts/session-2.json"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · readable script",
+      "filename": "session-2.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 43576,
+      "sha256": "3bd2a8cc7bac98a4f6d0047b904b116d5d61c07d9fda8adcd3f0ec0da8b7cf4a",
+      "storage": "pages",
+      "url": "Scripts/session-2.md"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 358645117,
+      "sha256": "a33aeab83a852660045cff5c10d5e4a074109d0cfac6255d1cc33a0e6f8a4736",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-02.mp4"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · VTT",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 32563,
+      "sha256": "4c50f36ed6cb20b3d3d33dbd905f1c66a44b6609869f3dfd4cb5113690d8e35c",
+      "storage": "pages",
+      "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt"
+    },
+    {
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · SRT",
+      "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 32555,
+      "sha256": "c345a2c85a465bc0627933168acd86c61dc1f9224cf7e02494db47a3a252c9b5",
+      "storage": "pages",
+      "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · structured script",
+      "filename": "session-3.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 68335,
+      "sha256": "0cf8294b69d81c371087e9aa13de95f3bd18c11f51fe9ae790a020e9883af088",
+      "storage": "pages",
+      "url": "Scripts/session-3.json"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · readable script",
+      "filename": "session-3.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 56775,
+      "sha256": "9f46844048dd3357302392c69c9287844f98f10d764024a2f9f1b8419639aa11",
+      "storage": "pages",
+      "url": "Scripts/session-3.md"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity",
+      "filename": "Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 380481160,
+      "sha256": "0a66e440ab52504dcb8fc97f1c6dc1b1e7de722017d95d9fce620b395548308c",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-03.mp4"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · VTT",
+      "filename": "Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 46717,
+      "sha256": "e1c70cd7cfd5ec66f97a944136c23fd423c89e268089beb4389894cf55f4d1f9",
+      "storage": "pages",
+      "url": "Captions/Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.vtt"
+    },
+    {
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · SRT",
+      "filename": "Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 46709,
+      "sha256": "63d14d8e63a3f37608f7e146677a6eaebfeb5f0d0981a627e61b87fb646b7fdb",
+      "storage": "pages",
+      "url": "Captions/Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.srt"
+    },
+    {
+      "label": "Session 4 · Learning Design · structured script",
+      "filename": "session-4.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 50841,
+      "sha256": "2fbed5197b7b6ce20030ee4bc6a25303c0255705040f35dd94ec1638b25b405f",
+      "storage": "pages",
+      "url": "Scripts/session-4.json"
+    },
+    {
+      "label": "Session 4 · Learning Design · readable script",
+      "filename": "session-4.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 43018,
+      "sha256": "9e684c405942a3cff206b415c0f462844f7e027026a13de8a087d8ab4f6cf004",
+      "storage": "pages",
+      "url": "Scripts/session-4.md"
+    },
+    {
+      "label": "Session 4 · Learning Design",
+      "filename": "Session 4 - Learning Design.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 126416761,
+      "sha256": "2e101bf21fbd4feeea41c19ed75f484487cf7fc589ff6116bd67ef8e6a9445eb",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-04.mp4"
+    },
+    {
+      "label": "Session 4 · Learning Design · VTT",
+      "filename": "Session 4 - Learning Design.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 35938,
+      "sha256": "f8a233ccbccfb18706dfab1376c7644fe45a62505e8c2857c80020639316a647",
+      "storage": "pages",
+      "url": "Captions/Session 4 - Learning Design.vtt"
+    },
+    {
+      "label": "Session 4 · Learning Design · SRT",
+      "filename": "Session 4 - Learning Design.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 35930,
+      "sha256": "60710c213a6cf58603dcc0258bbaa218f529ef4deae6044dcbf5feefc5f4be54",
+      "storage": "pages",
+      "url": "Captions/Session 4 - Learning Design.srt"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · structured script",
+      "filename": "session-5.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 53453,
+      "sha256": "998f9e656b1c4b5edbe92239fd9e0fdbb4d8566cc6b15d0d97e5d12ae0afc3ca",
+      "storage": "pages",
+      "url": "Scripts/session-5.json"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · readable script",
+      "filename": "session-5.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 45067,
+      "sha256": "d111439e698356339e168d5481d6cb8cae953016ec53db18d7245bc0c9fb66ab",
+      "storage": "pages",
+      "url": "Scripts/session-5.md"
+    },
+    {
+      "label": "Session 5 · Working in Partnership",
+      "filename": "Session 5 - Working in Partnership.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 171318916,
+      "sha256": "375e2eb66dab4b6a2564115c4332e1e4921d1c6530826782f7f4ff463cb5d770",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-05.mp4"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · VTT",
+      "filename": "Session 5 - Working in Partnership.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 39140,
+      "sha256": "564aceb97b7724bff380f8fe35761ed2cf0cf3a81253f356951cc4837cfa66d7",
+      "storage": "pages",
+      "url": "Captions/Session 5 - Working in Partnership.vtt"
+    },
+    {
+      "label": "Session 5 · Working in Partnership · SRT",
+      "filename": "Session 5 - Working in Partnership.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 39132,
+      "sha256": "728028fa131dc2e5a53666f453cbc972cece194d543fba9a56ea698211aff4ea",
+      "storage": "pages",
+      "url": "Captions/Session 5 - Working in Partnership.srt"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · structured script",
+      "filename": "session-6.json",
+      "category": "Scripts",
+      "format": "json",
+      "bytes": 26674,
+      "sha256": "9456c67a4f0497b06fea975ca08b33ba0efcc6e452d7975833fb9c5ba2c6d22a",
+      "storage": "pages",
+      "url": "Scripts/session-6.json"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · readable script",
+      "filename": "session-6.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 21894,
+      "sha256": "04294ec3069190f2c7acadf6f7229321e28a044c54f0e5b9986fd65f6c1fdf15",
+      "storage": "pages",
+      "url": "Scripts/session-6.md"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle",
+      "filename": "Session 6 - Flourishing and Full Circle.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 63748245,
+      "sha256": "d29f44cc74f511fcf25d51e19c39dc2d94b41ade94e2de67f8f1bb02a74ae7b3",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-06.mp4"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · VTT",
+      "filename": "Session 6 - Flourishing and Full Circle.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 17306,
+      "sha256": "59b9a4e8da67cbd1729cd4d225f5bab847a338ba62e53f034482f22249ff3f3b",
+      "storage": "pages",
+      "url": "Captions/Session 6 - Flourishing and Full Circle.vtt"
+    },
+    {
+      "label": "Session 6 · Flourishing and Full Circle · SRT",
+      "filename": "Session 6 - Flourishing and Full Circle.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 17298,
+      "sha256": "caa7ef4334a1221ccb7cfc8ed9676cfa23f9e16a91048fae843890ec07974e6d",
+      "storage": "pages",
+      "url": "Captions/Session 6 - Flourishing and Full Circle.srt"
+    },
+    {
+      "label": "Full facilitation script",
+      "filename": "Full Facilitation Script.md",
+      "category": "Scripts",
+      "format": "md",
+      "bytes": 243150,
+      "sha256": "bcc775ed5112f8b205ce2189b945db03235e0804a102baef3f2fee7fdf01bb9b",
+      "storage": "pages",
+      "url": "Scripts/Full Facilitation Script.md"
+    },
+    {
+      "label": "Complete workshop",
+      "filename": "Full Workshop.mp4",
+      "category": "Videos",
+      "format": "mp4",
+      "bytes": 1235705027,
+      "sha256": "a3c07b5fb0257c86292a99b02938d71d9f7713a717960ebeb2cfeb01aae9ee92",
+      "storage": "release",
+      "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--full-workshop.mp4"
+    },
+    {
+      "label": "Complete workshop · VTT",
+      "filename": "Full Workshop.vtt",
+      "category": "Captions",
+      "format": "vtt",
+      "bytes": 196201,
+      "sha256": "f15fa91e5bfcfd97573c33e5991e99820e03dcb8fc71ea7290c3157d5f5eb927",
+      "storage": "pages",
+      "url": "Captions/Full Workshop.vtt"
+    },
+    {
+      "label": "Complete workshop · SRT",
+      "filename": "Full Workshop.srt",
+      "category": "Captions",
+      "format": "srt",
+      "bytes": 196193,
+      "sha256": "993fb8aeb53caf5390674b8a37e3698ec2a12c71e717c4ae3abfcac5099f98bd",
+      "storage": "pages",
+      "url": "Captions/Full Workshop.srt"
+    }
+  ]
+}

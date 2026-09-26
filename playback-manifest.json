@@ -1,0 +1,109 @@
+{
+  "workshop": "Secondary Education",
+  "website": "https://craigwrenasmir.github.io/phase-5-secondary-education/",
+  "playback": "Same-site web-optimised MP4s; full-quality recordings remain separate Release downloads.",
+  "sessions": [
+    {
+      "session": 1,
+      "url": "media/session-1.mp4",
+      "bytes": 40558054,
+      "sha256": "2547f3b67b9dc562d66c4220ea8ea46112727a6168019e74b2fb473f14934a69",
+      "duration_seconds": 1203.776,
+      "source_sha256": "f1860de50c3345c998aa8d3392494b79aba1c694c36bebc4ff36a885c179cb0c",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-01.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 2,
+      "url": "media/session-2.mp4",
+      "bytes": 97089936,
+      "sha256": "4650161b72ebf37dac9a6f64e454c52d6974120f5065379604816e3340dd9d8f",
+      "duration_seconds": 1685.482,
+      "source_sha256": "a33aeab83a852660045cff5c10d5e4a074109d0cfac6255d1cc33a0e6f8a4736",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-02.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 3,
+      "url": "media/session-3.mp4",
+      "bytes": 94979015,
+      "sha256": "5040a50742fd7353f169d4e9aa19f58c49793b81485a6c01e8c6129a1c0a2c09",
+      "duration_seconds": 2657.45,
+      "source_sha256": "0a66e440ab52504dcb8fc97f1c6dc1b1e7de722017d95d9fce620b395548308c",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-03.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 4,
+      "url": "media/session-4.mp4",
+      "bytes": 44087185,
+      "sha256": "b762aba1e46ab613372fe2d8326c54028389dc631f9aae3d86b3981eed161eec",
+      "duration_seconds": 1688.533,
+      "source_sha256": "2e101bf21fbd4feeea41c19ed75f484487cf7fc589ff6116bd67ef8e6a9445eb",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-04.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 5,
+      "url": "media/session-5.mp4",
+      "bytes": 55110468,
+      "sha256": "88f4c929a91935318c21aa593f8d5143435a2ccca625b6c400909b16e4f05b2e",
+      "duration_seconds": 1951.168,
+      "source_sha256": "375e2eb66dab4b6a2564115c4332e1e4921d1c6530826782f7f4ff463cb5d770",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-05.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    },
+    {
+      "session": 6,
+      "url": "media/session-6.mp4",
+      "bytes": 21309970,
+      "sha256": "003cfd528dc936e7868a24c30fa5429714bd112a9383b23333019222902f33b4",
+      "duration_seconds": 815.978,
+      "source_sha256": "d29f44cc74f511fcf25d51e19c39dc2d94b41ade94e2de67f8f1bb02a74ae7b3",
+      "download": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-06.mp4",
+      "codec": "H.264 High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frame_rate": 25,
+      "audio": "AAC stereo 48 kHz",
+      "faststart": true
+    }
+  ]
+}
