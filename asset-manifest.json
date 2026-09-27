@@ -11,8 +11,8 @@
     {
       "number": 1,
       "title": "The Lens",
-      "duration": 1232.56,
-      "slides": 17,
+      "duration": 1341.44,
+      "slides": 18,
       "available": true
     },
     {
@@ -154,8 +154,8 @@
       "filename": "PL Secondary - Session 1 - The Lens.pdf",
       "category": "Slides",
       "format": "pdf",
-      "bytes": 5809379,
-      "sha256": "e9bd1353e445d5d22af80ecc08ec167b216b806a6a02bb02a621ddd6cc11032d",
+      "bytes": 5819000,
+      "sha256": "f4c6cb71587d64631af4756473f3cb78c12085169429d328aeb4212b9f470fcf",
       "storage": "pages",
       "url": "Original Assets/PL Secondary - Session 1 - The Lens.pdf"
     },
@@ -244,8 +244,8 @@
       "filename": "PL Secondary - Session 1 - The Lens.pptx",
       "category": "Editable slides",
       "format": "pptx",
-      "bytes": 51143815,
-      "sha256": "271aeb1e01b678b63a88c0ff351414ee0537754b29e241316adcc95451806219",
+      "bytes": 51147589,
+      "sha256": "b5cd00b1bddb534e6f339907a937f6a9c13801dd8dc08bf78cbf9859d94ce82d",
       "storage": "release",
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--editable-slides--pl-secondary-session-1-the-lens.pptx"
     },
@@ -300,57 +300,57 @@
       "url": "Original Assets/PL Secondary - Session 6 - Flourishing and Full Circle.pptx"
     },
     {
-      "label": "Session 1 \u00b7 The Lens \u00b7 structured script",
+      "label": "Session 1 · The Lens · structured script",
       "filename": "session-1.json",
       "category": "Scripts",
       "format": "json",
-      "bytes": 40687,
-      "sha256": "ac9a2a54e43543aac4503f486de32774aea18be14db8802609b7bd725c8f7f97",
+      "bytes": 44253,
+      "sha256": "2f58e9c47f5630ebb59988f467136c3098e3db54480ccccdfe99400bae0451df",
       "storage": "pages",
       "url": "Scripts/session-1.json"
     },
     {
-      "label": "Session 1 \u00b7 The Lens \u00b7 readable script",
+      "label": "Session 1 · The Lens · readable script",
       "filename": "session-1.md",
       "category": "Scripts",
       "format": "md",
-      "bytes": 32640,
-      "sha256": "7f77bb807890374eda3d112b549bca26f917071d33998033670604ca8e2b5c0f",
+      "bytes": 36397,
+      "sha256": "5d5bc146994ec1cecff113ae503d309c23346f56139d6dcad623abea614b45e5",
       "storage": "pages",
       "url": "Scripts/session-1.md"
     },
     {
-      "label": "Session 1 \u00b7 The Lens",
+      "label": "Session 1 · The Lens",
       "filename": "Session 1 - The Lens.mp4",
       "category": "Videos",
       "format": "mp4",
-      "bytes": 139881969,
-      "sha256": "6e3d5e00fc06d5292c27a267d6fba14f6ef11c4c23798fc897705a222e4d16c7",
+      "bytes": 147300032,
+      "sha256": "e1a73e93a691d990dc170d7b076395f29b313e3300c5d1da556e826755e15c26",
       "storage": "release",
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-01.mp4"
     },
     {
-      "label": "Session 1 \u00b7 The Lens \u00b7 VTT",
+      "label": "Session 1 · The Lens · VTT",
       "filename": "Session 1 - The Lens.vtt",
       "category": "Captions",
       "format": "vtt",
-      "bytes": 23375,
-      "sha256": "80323dcf6eb97ad3b762683d1b580467ceb49e85fae4f518f8276e9b22d4c58d",
+      "bytes": 28113,
+      "sha256": "0aa8c2cdbaff9c6795ba5cde97bb4ea6ed37a6e70fee5f84fc0c0f1cbec98d23",
       "storage": "pages",
       "url": "Captions/Session 1 - The Lens.vtt"
     },
     {
-      "label": "Session 1 \u00b7 The Lens \u00b7 SRT",
+      "label": "Session 1 · The Lens · SRT",
       "filename": "Session 1 - The Lens.srt",
       "category": "Captions",
       "format": "srt",
-      "bytes": 24175,
-      "sha256": "7e84c73740825518de5bd48e97ef816dcd267d55bab7d89a89793bd89609df5c",
+      "bytes": 28105,
+      "sha256": "0ff02b39e9b69ca181d1fdae50c5f56209dda8d1aed3d20e943f1d7fc56b400b",
       "storage": "pages",
       "url": "Captions/Session 1 - The Lens.srt"
     },
     {
-      "label": "Session 2 \u00b7 Understanding Autistic Experience: Sensory and Thinking \u00b7 structured script",
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · structured script",
       "filename": "session-2.json",
       "category": "Scripts",
       "format": "json",
@@ -360,7 +360,7 @@
       "url": "Scripts/session-2.json"
     },
     {
-      "label": "Session 2 \u00b7 Understanding Autistic Experience: Sensory and Thinking \u00b7 readable script",
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · readable script",
       "filename": "session-2.md",
       "category": "Scripts",
       "format": "md",
@@ -370,7 +370,7 @@
       "url": "Scripts/session-2.md"
     },
     {
-      "label": "Session 2 \u00b7 Understanding Autistic Experience: Sensory and Thinking",
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking",
       "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.mp4",
       "category": "Videos",
       "format": "mp4",
@@ -380,7 +380,7 @@
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-02.mp4"
     },
     {
-      "label": "Session 2 \u00b7 Understanding Autistic Experience: Sensory and Thinking \u00b7 VTT",
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · VTT",
       "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt",
       "category": "Captions",
       "format": "vtt",
@@ -390,7 +390,7 @@
       "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.vtt"
     },
     {
-      "label": "Session 2 \u00b7 Understanding Autistic Experience: Sensory and Thinking \u00b7 SRT",
+      "label": "Session 2 · Understanding Autistic Experience: Sensory and Thinking · SRT",
       "filename": "Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt",
       "category": "Captions",
       "format": "srt",
@@ -400,7 +400,7 @@
       "url": "Captions/Session 2 - Understanding Autistic Experience- Sensory and Thinking.srt"
     },
     {
-      "label": "Session 3 \u00b7 Autistic Experience at Secondary School: Communication, Connection and Identity \u00b7 structured script",
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · structured script",
       "filename": "session-3.json",
       "category": "Scripts",
       "format": "json",
@@ -410,7 +410,7 @@
       "url": "Scripts/session-3.json"
     },
     {
-      "label": "Session 3 \u00b7 Autistic Experience at Secondary School: Communication, Connection and Identity \u00b7 readable script",
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · readable script",
       "filename": "session-3.md",
       "category": "Scripts",
       "format": "md",
@@ -420,7 +420,7 @@
       "url": "Scripts/session-3.md"
     },
     {
-      "label": "Session 3 \u00b7 Autistic Experience at Secondary School: Communication, Connection and Identity",
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity",
       "filename": "Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.mp4",
       "category": "Videos",
       "format": "mp4",
@@ -430,7 +430,7 @@
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-03.mp4"
     },
     {
-      "label": "Session 3 \u00b7 Autistic Experience at Secondary School: Communication, Connection and Identity \u00b7 VTT",
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · VTT",
       "filename": "Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.vtt",
       "category": "Captions",
       "format": "vtt",
@@ -440,7 +440,7 @@
       "url": "Captions/Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.vtt"
     },
     {
-      "label": "Session 3 \u00b7 Autistic Experience at Secondary School: Communication, Connection and Identity \u00b7 SRT",
+      "label": "Session 3 · Autistic Experience at Secondary School: Communication, Connection and Identity · SRT",
       "filename": "Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.srt",
       "category": "Captions",
       "format": "srt",
@@ -450,7 +450,7 @@
       "url": "Captions/Session 3 - Autistic Experience at Secondary School- Communication, Connection and Identity.srt"
     },
     {
-      "label": "Session 4 \u00b7 Learning Design \u00b7 structured script",
+      "label": "Session 4 · Learning Design · structured script",
       "filename": "session-4.json",
       "category": "Scripts",
       "format": "json",
@@ -460,7 +460,7 @@
       "url": "Scripts/session-4.json"
     },
     {
-      "label": "Session 4 \u00b7 Learning Design \u00b7 readable script",
+      "label": "Session 4 · Learning Design · readable script",
       "filename": "session-4.md",
       "category": "Scripts",
       "format": "md",
@@ -470,7 +470,7 @@
       "url": "Scripts/session-4.md"
     },
     {
-      "label": "Session 4 \u00b7 Learning Design",
+      "label": "Session 4 · Learning Design",
       "filename": "Session 4 - Learning Design.mp4",
       "category": "Videos",
       "format": "mp4",
@@ -480,7 +480,7 @@
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-04.mp4"
     },
     {
-      "label": "Session 4 \u00b7 Learning Design \u00b7 VTT",
+      "label": "Session 4 · Learning Design · VTT",
       "filename": "Session 4 - Learning Design.vtt",
       "category": "Captions",
       "format": "vtt",
@@ -490,7 +490,7 @@
       "url": "Captions/Session 4 - Learning Design.vtt"
     },
     {
-      "label": "Session 4 \u00b7 Learning Design \u00b7 SRT",
+      "label": "Session 4 · Learning Design · SRT",
       "filename": "Session 4 - Learning Design.srt",
       "category": "Captions",
       "format": "srt",
@@ -500,7 +500,7 @@
       "url": "Captions/Session 4 - Learning Design.srt"
     },
     {
-      "label": "Session 5 \u00b7 Working in Partnership \u00b7 structured script",
+      "label": "Session 5 · Working in Partnership · structured script",
       "filename": "session-5.json",
       "category": "Scripts",
       "format": "json",
@@ -510,7 +510,7 @@
       "url": "Scripts/session-5.json"
     },
     {
-      "label": "Session 5 \u00b7 Working in Partnership \u00b7 readable script",
+      "label": "Session 5 · Working in Partnership · readable script",
       "filename": "session-5.md",
       "category": "Scripts",
       "format": "md",
@@ -520,7 +520,7 @@
       "url": "Scripts/session-5.md"
     },
     {
-      "label": "Session 5 \u00b7 Working in Partnership",
+      "label": "Session 5 · Working in Partnership",
       "filename": "Session 5 - Working in Partnership.mp4",
       "category": "Videos",
       "format": "mp4",
@@ -530,7 +530,7 @@
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-05.mp4"
     },
     {
-      "label": "Session 5 \u00b7 Working in Partnership \u00b7 VTT",
+      "label": "Session 5 · Working in Partnership · VTT",
       "filename": "Session 5 - Working in Partnership.vtt",
       "category": "Captions",
       "format": "vtt",
@@ -540,7 +540,7 @@
       "url": "Captions/Session 5 - Working in Partnership.vtt"
     },
     {
-      "label": "Session 5 \u00b7 Working in Partnership \u00b7 SRT",
+      "label": "Session 5 · Working in Partnership · SRT",
       "filename": "Session 5 - Working in Partnership.srt",
       "category": "Captions",
       "format": "srt",
@@ -550,7 +550,7 @@
       "url": "Captions/Session 5 - Working in Partnership.srt"
     },
     {
-      "label": "Session 6 \u00b7 Flourishing and Full Circle \u00b7 structured script",
+      "label": "Session 6 · Flourishing and Full Circle · structured script",
       "filename": "session-6.json",
       "category": "Scripts",
       "format": "json",
@@ -560,7 +560,7 @@
       "url": "Scripts/session-6.json"
     },
     {
-      "label": "Session 6 \u00b7 Flourishing and Full Circle \u00b7 readable script",
+      "label": "Session 6 · Flourishing and Full Circle · readable script",
       "filename": "session-6.md",
       "category": "Scripts",
       "format": "md",
@@ -570,7 +570,7 @@
       "url": "Scripts/session-6.md"
     },
     {
-      "label": "Session 6 \u00b7 Flourishing and Full Circle",
+      "label": "Session 6 · Flourishing and Full Circle",
       "filename": "Session 6 - Flourishing and Full Circle.mp4",
       "category": "Videos",
       "format": "mp4",
@@ -580,7 +580,7 @@
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-06.mp4"
     },
     {
-      "label": "Session 6 \u00b7 Flourishing and Full Circle \u00b7 VTT",
+      "label": "Session 6 · Flourishing and Full Circle · VTT",
       "filename": "Session 6 - Flourishing and Full Circle.vtt",
       "category": "Captions",
       "format": "vtt",
@@ -590,7 +590,7 @@
       "url": "Captions/Session 6 - Flourishing and Full Circle.vtt"
     },
     {
-      "label": "Session 6 \u00b7 Flourishing and Full Circle \u00b7 SRT",
+      "label": "Session 6 · Flourishing and Full Circle · SRT",
       "filename": "Session 6 - Flourishing and Full Circle.srt",
       "category": "Captions",
       "format": "srt",
@@ -604,8 +604,8 @@
       "filename": "Full Facilitation Script.md",
       "category": "Scripts",
       "format": "md",
-      "bytes": 243169,
-      "sha256": "30b514ad383e9cd8bf4ff5519708dbaa842d2d7720f08eb3f8c93053d5334446",
+      "bytes": 246927,
+      "sha256": "02dc577751c8ff8645c2a99c2df91d2341699f61138b4affb8239399e42dae8e",
       "storage": "pages",
       "url": "Scripts/Full Facilitation Script.md"
     },
@@ -614,28 +614,28 @@
       "filename": "Full Workshop.mp4",
       "category": "Videos",
       "format": "mp4",
-      "bytes": 1238279809,
-      "sha256": "207b1fb6dc2b35c162f4ee555e54a48dc3de0626d188be44808015a03c15462c",
+      "bytes": 1246222025,
+      "sha256": "dd10ca44b250a690b0b36f446bdedf4163d475c62550454b6fc86b43f010c8ec",
       "storage": "release",
       "url": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--full-workshop.mp4"
     },
     {
-      "label": "Complete workshop \u00b7 VTT",
+      "label": "Complete workshop · VTT",
       "filename": "Full Workshop.vtt",
       "category": "Captions",
       "format": "vtt",
-      "bytes": 189409,
-      "sha256": "f7ffe6180809074da9445117945a8cb47d68aedc285e25af308d82509d90a233",
+      "bytes": 201326,
+      "sha256": "22fbc9753b9b6283d99fae41a50d3935b442824057726cc3ef4d100360495fc3",
       "storage": "pages",
       "url": "Captions/Full Workshop.vtt"
     },
     {
-      "label": "Complete workshop \u00b7 SRT",
+      "label": "Complete workshop · SRT",
       "filename": "Full Workshop.srt",
       "category": "Captions",
       "format": "srt",
-      "bytes": 197329,
-      "sha256": "519bcff12c44d6126c76a5cbd5a7f8cdf847dfc93b8fc516c85bfd97943a7e14",
+      "bytes": 201318,
+      "sha256": "9c3fe8b4cae65153ab919869672f8ab6e3025605519b173756e0ba0a46b8a115",
       "storage": "pages",
       "url": "Captions/Full Workshop.srt"
     },
@@ -649,5 +649,6 @@
       "bytes": 306570,
       "sha256": "b733304edaebde663f1bdef6d700ccf6e4682ef8066ad637989e50cd276602af"
     }
-  ]
+  ],
+  "current_revision": "dda-dse-session1-revision.json"
 }

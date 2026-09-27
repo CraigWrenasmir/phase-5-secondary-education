@@ -139,8 +139,13 @@
       "id": "s01_sl08_video",
       "slide": 8,
       "kind": "video",
-      "media_path": "s01-slide08-media1.mp4",
-      "source_note": "Original Secondary Education embedded video, Session 1 slide 8. SHA-256 04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834. Byte-identical to the corresponding verified Primary source film. Play once in full."
+      "source_note": "Original Secondary Education embedded video, Session 1 slide 8. SHA-256 04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834. Byte-identical to the corresponding verified Primary source film. Play once in full.",
+      "source_sha256": "04f5bbf13c7b61c72ce047d6549309e871fcb4992bfb2bba87bbe62d761b4834",
+      "post_pause_seconds": 0.0,
+      "source_media_file": "s01-slide08-media1.mp4",
+      "published_video": "https://github.com/craigwrenasmir/phase-5-professional-learning/releases/download/workshops-v1/secondary--session-01.mp4",
+      "video_start_seconds": 349.0,
+      "video_end_seconds": 489.88
     },
     {
       "id": "s01_sl08_b",
@@ -268,10 +273,10 @@
       "id": "s01_sl14_a",
       "slide": 14,
       "kind": "narration",
-      "spoken_text": "Now turn to a small group near you. To begin, take the question about whose ways of communicating, moving and participating are treated as expected. Choose one familiar routine or decision to explore together.\n\nKeep it specific enough to picture. You might choose how children join a whole-class discussion, for example. Talk about the routine and the system, without naming students, colleagues or schools.\n\nThen work through the prompts on screen. Which assumptions shape that routine? Who can access it easily? Where might the environment create a barrier? How could curiosity change the next response?\n\nIf you find yourselves focusing mainly on what a student does, come back to what the environment, task or expectation is contributing.\n\nBefore we come back together, choose one concise observation to share, and one example of how curiosity could change your next response. Keep the prompts in view as you talk. You can begin.",
+      "spoken_text": "Now turn to a small group near you. To begin, take the question about whose ways of communicating, moving and participating are treated as expected. Choose one familiar routine or decision to explore together.\n\nKeep it specific enough to picture. You might choose how children join a whole-class discussion, for example. Talk about the routine and the system, without naming students, colleagues or schools.\n\nThen work through the prompts on screen. Which assumptions shape that routine? Who can access it easily? Where might the environment create a barrier? How could curiosity change the next response?\n\nIf you find yourselves focusing mainly on what a student does, come back to what the environment, task or expectation is contributing.\n\nBefore we come back together, choose one concise observation to share, and one example of how curiosity could change your next response. Keep the prompts in view as you talk. You have nine minutes for this discussion. Pause the video while you work, then resume when you're ready for the debrief. You can begin.",
       "post_pause_seconds": 8,
-      "screen_cue": "Pause the video for the activity. Resume for the debrief.",
-      "source_note": "Secondary Education Session 1, slide 14:  Discussion . Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 14; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl14_a. Session 1 slide 14 and facilitator guide. Reuses the approved pilot spoken setup. The fourth slide-13 school question provides a common starting prompt. Working interval represented by an eight-second pause; participants can pause for the full discussion.",
+      "screen_cue": "Allow 9 minutes for the discussion. Pause the video, then resume for the debrief.",
+      "source_note": "Updated Session 1 slide 14 speaker notes: nine-minute small-group discussion (9:23 to 9:32), replacing the previous ten-minute allocation. Existing audience-facing setup preserved except for the updated working-time and pause-playback instruction. Recorded working interval remains eight seconds. Existing debrief narration retained.",
       "reuse_primary": {
         "session": 1,
         "segment_id": "s01_sl14_a"
@@ -293,13 +298,22 @@
       "spoken_text_sha256": "eda73871edf606dbeeb2dfa9dbe43f7ca3065b0816ec0d0b183b736cb9c95bb4"
     },
     {
-      "id": "s01_sl15_a",
+      "id": "s01_sl15_law_dda_dse",
       "slide": 15,
       "kind": "narration",
-      "spoken_text": "The Disability Standards for Education 2005 are part of the context for our work on access and adjustments. There are three Australian Government Department of Education resources to be aware of alongside this workshop.\n\nThe first is Getting started. The second is Advocating with and for your child: A workbook for parents and carers. That workbook is written for families, so it is useful for educators to know what parents and carers may be reading and working through. The third resource is Milestones and transitions.\n\nThe links are listed in the facilitator resources. Use the published materials to follow up, and take detailed or school-specific questions through the appropriate program or local channel. For our work today, keep the connection with access in view: understanding the student, looking closely at the demands of the setting, and considering the adjustments and support that make participation more workable.",
+      "spoken_text": "We've been looking at the barriers that can sit in school routines, spaces and processes. There is a legal framework behind this work as well. Let's take a moment to look at the three parts on this slide, beginning with the Disability Discrimination Act 1992.\n\nThe Act makes it unlawful to treat a person unfairly because of disability, including in education. It gives us an important starting point as we think about the opportunities students have at school and the barriers they may encounter.\n\nThe second part is the Disability Standards for Education 2005. Students with disability have the right to take part in education on the same basis as other students. The words on the same basis matter here. They mean having opportunities and choices comparable to those available to other students. Keep that idea of opportunity and choice in mind as we consider access through the day.\n\nThe third part brings us to what this asks of schools. Consult the student, or an associate such as a parent or carer. Make reasonable adjustments. Prevent harassment and victimisation. These are obligations that connect directly with the everyday work of access, participation and inclusion.\n\nConsultation means making space for the student's perspective, including through an associate such as a parent or carer. As we go through the workshop, keep asking whose perspective we need to understand, and what that could help us notice about a routine, task or environment.\n\nEvery educator has a part in this work. We will come back to reasonable adjustments and consultation later in the day, including our work on partnership in Session Five. For now, keep the link with our discussion: when we notice a barrier, we have a reason to look closely at what can change around the student.\n\nFor a detailed question about a particular school situation, take it to your principal or the relevant system contact. The Department of Education resources on the next slide are places to read more about this framework.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Session 1, slide 15:   Disability Standards for Education (DSE) 2005. Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 15; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl15_a. Session 1 slide 15 and guide: DSE 2005 context and all three named Department resources; family audience of workbook explicit. No new legal interpretation or legal advice. Exact resource URLs remain in source notes.",
+      "source_note": "Updated Session 1 slide 15 and speaker notes: The law: access, participation and inclusion. DDA 1992, DSE 2005, same-basis opportunities and choices, consultation, reasonable adjustments and prevention of harassment and victimisation. Source planned time 3 minutes. Detailed school-specific questions referred to principal or relevant system contact. Audience-facing adaptation; no invented participant answers."
+    },
+    {
+      "id": "s01_sl15_a",
+      "slide": 16,
+      "kind": "narration",
+      "spoken_text": "Here are three Department of Education resources you can return to after the workshop.\n\nThe first is Getting started. The second is Advocating with and for your child: A workbook for parents and carers. That workbook is written for families, so it helps us understand what parents and carers may be reading as they prepare for conversations with school. The third is Milestones and transitions.\n\nThe links are listed in the facilitator resources. Make a note of whichever would be useful to you. For detailed or school-specific questions, use the appropriate program or local channel. We'll keep connecting these resources with access, consultation and adjustments as the day continues.",
+      "post_pause_seconds": 1.5,
+      "screen_cue": null,
+      "source_note": "Updated Session 1 slide 16 speaker notes (formerly slide 15): one-minute pointer to three Department of Education resources - Getting started; Advocating with and for your child: A workbook for parents and carers; Milestones and transitions. Parent/carer audience of workbook retained. Detailed or school-specific questions directed to appropriate program or local channel. Source URLs retained in deck notes.",
       "reuse_primary": {
         "session": 1,
         "segment_id": "s01_sl15_a"
@@ -308,12 +322,12 @@
     },
     {
       "id": "s01_sl16_a",
-      "slide": 16,
+      "slide": 17,
       "kind": "narration",
       "spoken_text": "Autism can be understood as difference and as a dynamic disability. Holding both ideas matters. Recognising difference and strengths does not mean overlooking difficulty or the need for substantial support.\n\nAccess and support needs can change with the task, the environment, relationships and the capacity available at that time. Something a student can do in one setting, or on one day, may not be available in another. We need to look at what is happening around the student as well as what the task is asking of them.\n\nThat takes us away from a fixed judgement about what someone can always do. It invites a more useful question: what is making participation possible here, and what support is needed now?\n\nKeep the individual in view. There isn't one pattern that will explain every Autistic student's experience. Strengths, difficulties and fluctuating capacity all belong in the picture we build with the student and the people who know them.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Session 1, slide 16:   Autism as difference. Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 16; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl16_a. Session 1, slide 16: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted.",
+      "source_note": "Secondary Education Session 1, slide 17:   Autism as difference. Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 17; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl16_a. Session 1, slide 17: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted.",
       "reuse_primary": {
         "session": 1,
         "segment_id": "s01_sl16_a"
@@ -322,22 +336,22 @@
     },
     {
       "id": "s01_sl17_a",
-      "slide": 17,
+      "slide": 18,
       "kind": "narration",
       "spoken_text": "Here is where the day is taking us. We'll develop a neurodiversity affirming approach, deepen our understanding of Autistic experience, notice how that experience meets the school day, consider accessible learning environments, and work in partnership.\n\nThe first two sessions build our shared understanding. Then we'll bring that understanding into the rhythms of a secondary school day and into practical choices about design and support. Belonging, capacity and joy stay with us throughout.\n\nThe workshop schedule allows for morning tea from ten forty-five to eleven, and lunch from twelve thirty to one. Treat those as the planned timings and follow the arrangements for your session.\n\nBefore we move on, turn to My starting point on page five of your Participant Guide. Make a brief note of where you are beginning: a question, a hope or an idea you want to examine. We will return to this in our final reflection. Take a moment to write now.",
       "post_pause_seconds": 8,
       "screen_cue": "Pause the video for the activity. Resume for the debrief.",
-      "source_note": "Secondary Education Session 1, slide 17:  Today’s workshop . Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 17; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl17_a. Session 1, slide 17: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted.",
+      "source_note": "Secondary Education Session 1, slide 18:  Today’s workshop . Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 18; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl17_a. Session 1, slide 18: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted.",
       "spoken_text_sha256": "2f42dade45e2e4651726ee02d97fc11058a8291786f9139a0a17ac4b1045cbee"
     },
     {
       "id": "s01_sl17_b",
-      "slide": 17,
+      "slide": 18,
       "kind": "narration",
       "spoken_text": "Keep that starting point. You don't have to resolve it yet. Next we'll explore sensory experience, thinking and internal signals, using the students you have in mind to connect the ideas with your own school context.",
       "post_pause_seconds": 1.5,
       "screen_cue": null,
-      "source_note": "Secondary Education Session 1, slide 17:  Today’s workshop . Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 17; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl17_b. Session 1, slide 17: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted.",
+      "source_note": "Secondary Education Session 1, slide 18:  Today’s workshop . Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 18; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl17_b. Session 1, slide 18: supplied slide, speaker notes and matching facilitator guide. New audience-facing adaptation; no participant responses asserted.",
       "reuse_primary": {
         "session": 1,
         "segment_id": "s01_sl17_b"
@@ -346,5 +360,28 @@
     }
   ],
   "workshop": "Secondary Education",
-  "recording_note": "AI facilitator simulation using Steve Hogan. Activity pauses are brief; pause playback for longer. Original embedded films remain source material."
+  "recording_note": "AI facilitator simulation using Steve Hogan. Activity pauses are brief; pause playback for longer. Original embedded films remain source material.",
+  "slide_count": 18,
+  "source_revision": {
+    "date": "2026-09-28",
+    "reason": "DDA/DSE coverage in Session 1",
+    "source_pptx": "PL Secondary - Session 1 - The Lens.pptx",
+    "source_pptx_sha256": "b5cd00b1bddb534e6f339907a937f6a9c13801dd8dc08bf78cbf9859d94ce82d",
+    "source_pdf": "PL Secondary - Session 1 - The Lens.pdf",
+    "source_pdf_sha256": "f4c6cb71587d64631af4756473f3cb78c12085169429d328aeb4212b9f470fcf",
+    "base_repo_head": "3ac0be75426716ef230d06b4aa680ee925e06d37",
+    "base_script_sha256": "ac9a2a54e43543aac4503f486de32774aea18be14db8802609b7bd725c8f7f97",
+    "changed_spoken_segment_ids": [
+      "s01_sl14_a",
+      "s01_sl15_law_dda_dse",
+      "s01_sl15_a"
+    ],
+    "moved_slides": {
+      "15": 16,
+      "16": 17,
+      "17": 18
+    },
+    "unchanged_narration_rule": "Every existing segment outside changed_spoken_segment_ids retains exactly the previous spoken_text. Current approved opening and exact reconciliation are preserved."
+  },
+  "publication_note": "Public reference copy of the revised facilitation script. Private production paths are omitted. Source timings describe the live workshop; recorded activity pauses remain brief."
 }

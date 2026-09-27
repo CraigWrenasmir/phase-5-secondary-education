@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-28",
+  "scope": "DDA/DSE coverage in Session1. Only affected sessions rebuilt from updated read-only masters; unchanged narration reused.",
+  "workshop": "Secondary Education",
+  "basis_commit": "3ac0be75426716ef230d06b4aa680ee925e06d37",
+  "source_sessions": [
+    {
+      "session": 1,
+      "pptx": "PL Secondary - Session 1 - The Lens.pptx",
+      "pptx_sha256": "b5cd00b1bddb534e6f339907a937f6a9c13801dd8dc08bf78cbf9859d94ce82d",
+      "pptx_bytes": 51147589,
+      "pdf": "PL Secondary - Session 1 - The Lens.pdf",
+      "pdf_sha256": "f4c6cb71587d64631af4756473f3cb78c12085169429d328aeb4212b9f470fcf",
+      "pdf_bytes": 5819000,
+      "source_slides": 18
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "duration_seconds": 1341.44,
+      "source_slide_count": 18,
+      "full_sha256": "e1a73e93a691d990dc170d7b076395f29b313e3300c5d1da556e826755e15c26",
+      "web_sha256": "5106446e0de109c73ca5d1cf3ce2ccf30d83eeb4946b3077e7957ac623899e5a"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 10140.0,
+    "sha256": "dd10ca44b250a690b0b36f446bdedf4163d475c62550454b6fc86b43f010c8ec",
+    "unchanged_session_picture_data_preserved": true
+  },
+  "total_source_slides": 119,
+  "playback": "Same-site web media. Full-quality Release assets are download-only.",
+  "narration": "Steve Hogan; unaffected narration retained. New or changed narration uses verified source-aligned text.",
+  "notes": "Original earlier revision records are preserved as historical evidence."
+}
