@@ -15,14 +15,17 @@
 
     h1,h2,h3,h4,h5,h6{font-weight:400}.note-card{border-radius:8px}.catalog h2,.workshop-card h2,.readable h2,.note-card h3{font-weight:400}
 .activity-prompt{margin:0;padding:15px 20px;background:var(--mint);color:#330044;border-bottom:1px solid #e0d3e7;font-size:14px;line-height:1.5}.activity-prompt strong{display:block;margin-bottom:3px;font-size:12px;letter-spacing:.04em;text-transform:uppercase}
-  </style>
+
+/* Consistent return link across workshop pages. */
+.workshop-hub-nav{margin:0 0 20px}.workshop-hub-nav a{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:8px 14px;border:1px solid #ffffff66;border-radius:8px;background:#ffffff0b;color:#fff;font-size:14px;font-weight:600;text-decoration:none}.workshop-hub-nav a:hover{background:#fff;color:#712d90}.workshop-hub-nav a:focus-visible{outline:3px solid #f7941e;outline-offset:4px}
+</style>
 </head>
 <body>
   <a class="skip" href="#main">Skip to the workshop</a>
   <header class="masthead">
     <div class="wrap">
       <div class="topline"><div class="brand"><img class="pp-logo" src="assets/pp-logo-white.svg" alt="Positive Partnerships"><span class="brand-sub">Phase 5 · Professional Learning</span></div><span class="simulation">AI facilitator simulation</span></div>
-      <div class="hero"><p class="eyebrow">A workshop to explore at your pace</p><h1>Secondary Education</h1><p>Hear the workshop delivered alongside the slides. Revisit an idea, follow an activity, and build familiarity with the content together.</p></div>
+      <div class="hero"><nav class="workshop-hub-nav" aria-label="Workshop selection"><a href="https://craigwrenasmir.github.io/phase-5-professional-learning/"><span aria-hidden="true">←</span> All workshops</a></nav><p class="eyebrow">A workshop to explore at your pace</p><h1>Secondary Education</h1><p>Hear the workshop delivered alongside the slides. Revisit an idea, follow an activity, and build familiarity with the content together.</p></div>
     </div>
   </header>
   <main id="main" class="wrap workspace">
@@ -50,7 +53,7 @@
     </div>
     <p id="announcement" class="sr-only" aria-live="polite"></p>
   </main>
-  <footer class="wrap footer"><p><strong>AI facilitator simulation.</strong> The presenter uses the AI-generated Steve Hogan voice. Embedded source clips retain their original audio. This companion supports preparation and reflection alongside the workshop materials.</p><nav class="footer-links" aria-label="Workshop resources"><a href="https://craigwrenasmir.github.io/phase-5-professional-learning/">All five workshops ↗</a><a href="resources.html">All workshop resources ↗</a><a id="participant-guide" hidden download>Participant guide ↓</a><a id="full-script" hidden>Full facilitation script ↗</a><a id="full-video" download hidden>Full workshop video ↓</a><a id="workshop-notes" hidden>Workshop notes &amp; source gaps ↗</a></nav></footer>
+  <footer class="wrap footer"><p><strong>AI facilitator simulation.</strong> The presenter uses the AI-generated Steve Hogan voice. Embedded source clips retain their original audio. This companion supports preparation and reflection alongside the workshop materials.</p><nav class="footer-links" aria-label="Workshop resources"><a href="https://craigwrenasmir.github.io/phase-5-professional-learning/">All workshops ↗</a><a href="resources.html">All workshop resources ↗</a><a id="participant-guide" hidden download>Participant guide ↓</a><a id="full-script" hidden>Full facilitation script ↗</a><a id="full-video" download hidden>Full workshop video ↓</a><a id="workshop-notes" hidden>Workshop notes &amp; source gaps ↗</a></nav></footer>
   <script id="workshop-data" type="application/json">{
   "title": "Secondary Education",
   "slug": "secondary",
