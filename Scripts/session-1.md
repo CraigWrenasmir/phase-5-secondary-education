@@ -26,11 +26,11 @@ Source and adaptation: Secondary Education Session 1, slide 2: Acknowledgement o
 
 ### Slide 3
 
-At this point in the workshop, we make space for the organisation's statement of reconciliation. The approved statement has not been included in the supplied materials for this recording, so its wording still needs to be added here.
+Our Statement of Reconciliation is in your workbook for you to read. For the sake of this demonstration, I'll read it aloud. We at Positive Partnerships value and recognise the diversity of Aboriginal and Torres Strait Islander cultures and heritage and their proud part in Australia’s national identity. We acknowledge and continue to learn about Australia’s colonial past and the historic and ongoing impacts on Australia’s First Nations people. We believe in and strongly support the Truth-telling of Australia’s colonial history and in moving forward as a nation we must encourage open, honest dialogue and build relationships built on respect and trust.
 
-*Pause: 2 seconds. *
+*Pause: 2.025 seconds. *
 
-Source and adaptation: Secondary Education Session 1, slide 3: Statement of reconciliation. Current slide text, speaker notes and matching guide activities checked. Secondary Education Session 1, slide 3; supplied slide, speaker notes and matching facilitator guide. Adapted/reused spoken delivery checked against this audience and the current Participant Guide. Primary source segment: s01_sl03_a. SOURCE GAP: Slide 3 title and guide require the organisation statement, but provide no wording. PDF slide 3 visually inspected: title and photograph only. This transparent holding narration must not be represented as the organisation statement; replace when approved wording is supplied.
+Source and adaptation: The Statement of Reconciliation was supplied and authorised by Craig on 27 September 2026. Its wording is reproduced exactly. The preceding workbook and demonstration introduction is newly authored for this recording.
 
 ### Slide 4
 
