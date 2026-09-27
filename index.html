@@ -19,6 +19,17 @@
 /* Consistent return link across workshop pages. */
 .workshop-hub-nav{margin:0 0 20px}.workshop-hub-nav a{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:8px 14px;border:1px solid #ffffff66;border-radius:8px;background:#ffffff0b;color:#fff;font-size:14px;font-weight:600;text-decoration:none}.workshop-hub-nav a:hover{background:#fff;color:#712d90}.workshop-hub-nav a:focus-visible{outline:3px solid #f7941e;outline-offset:4px}
 </style>
+
+<style id="phase5-cross-workshop-navigation-style">
+.phase5-cross-nav{background:#f5f2f6;border-bottom:1px solid #e0d3e7}
+.phase5-cross-nav-inner{width:min(1400px,calc(100% - 64px));margin:0 auto;display:flex;flex-wrap:wrap;gap:6px;padding:12px 0}
+.phase5-cross-nav a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:9px 14px;border:1px solid transparent;border-radius:8px;color:#712d90;background:transparent;text-decoration:none;font:600 14px/1.35 Arial,"Helvetica Neue",Helvetica,sans-serif;text-align:center}
+.phase5-cross-nav a:hover{background:#fff;border-color:#e0d3e7;text-decoration:underline;text-underline-offset:3px}
+.phase5-cross-nav a[aria-current]{background:#712d90;border-color:#712d90;color:#fff}
+.phase5-cross-nav a:focus-visible{outline:3px solid #f7941e;outline-offset:2px}
+@media(max-width:1000px){.phase5-cross-nav-inner{width:calc(100% - 40px)}}
+@media(max-width:640px){.phase5-cross-nav-inner{width:calc(100% - 28px);display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.phase5-cross-nav a{padding:8px;font-size:13px}}
+</style>
 </head>
 <body>
   <a class="skip" href="#main">Skip to the workshop</a>
@@ -28,6 +39,8 @@
       <div class="hero"><nav class="workshop-hub-nav" aria-label="Workshop selection"><a href="https://craigwrenasmir.github.io/phase-5-professional-learning/"><span aria-hidden="true">←</span> All workshops</a></nav><p class="eyebrow">A workshop to explore at your pace</p><h1>Secondary Education</h1><p>Hear the workshop delivered alongside the slides. Revisit an idea, follow an activity, and build familiarity with the content together.</p></div>
     </div>
   </header>
+<nav class="phase5-cross-nav" aria-label="Phase 5 workshops"><div class="phase5-cross-nav-inner"><a href="https://craigwrenasmir.github.io/phase-5-trial-content/">Phase 5 Trial content</a><a href="https://craigwrenasmir.github.io/phase-5-professional-learning/" aria-current="location">Professional Learning</a><a href="https://craigwrenasmir.github.io/phase-5-parent-carer-workshops/">Parent Carer</a><a href="https://craigwrenasmir.github.io/phase-5-whole-school-workshop/">Whole School</a></div></nav>
+
   <main id="main" class="wrap workspace">
     <noscript><div class="no-js">Enable JavaScript to use the session selector and slide navigation. <a href="resources.html">Open the videos and resources directly.</a></div></noscript>
     <div class="session-bar">
