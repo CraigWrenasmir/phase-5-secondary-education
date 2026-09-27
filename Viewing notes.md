@@ -26,8 +26,6 @@ The simulation preserves the supplied workshop and identifies missing or unconfi
 - Session 2, slide 17: A young person's account of deep focus and transitions is planned for this point in the workshop, but the clip is not included in the supplied materials yet. See the session script for the context.
 - Session 4, slide 10: The example image is still a placeholder in this deck, so focus on the questions rather than a finished template. See the session script for the context.
 - Session 4, slide 11: The materials refer to a Visual Supports Checklist and an online webinar for further learning, but their access details still need to be confirmed. See the session script for the context.
-- Session 4, slide 13: The original slide retains a placeholder for material that is not supplied. See the session script for the context.
-- Session 4, slide 19: The original slide retains a placeholder for material that is not supplied. See the session script for the context.
 - Session 6, slide 6: That video hasn't been supplied in this version of the workshop, so we'll move directly to the final reflection. See the session script for the context.
 - Session 6, slide 8: The particular webinar titles and dates, and the Community of Practice link, are still awaiting confirmation in these materials. See the session script for the context.
 
